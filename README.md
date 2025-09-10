@@ -1,1 +1,1 @@
-# doh-server
+# DNS Forwarder
